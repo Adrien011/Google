@@ -1,0 +1,26 @@
+nav li {
+    display: inline;
+    float: right;
+}
+nav li a {
+    text-decoration:none;
+    margin-right: 15px ;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 80vh;
+    flex-direction: column;
+}
+ 
+footer li {
+    display: inline;
+    margin-right: 50px;
+}
+
+
+  
+
+
